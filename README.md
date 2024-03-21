@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img align  ="right" width = 400px src="/vlogo.png" alt="">
+<img align  ="right" width = 400px src="/vlogo2.png" alt="">
 
 # About Me:
 🎓 I'm currently working on DSA. <br>
