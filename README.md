@@ -9,7 +9,7 @@
 
 <img height=300 width=300 align  ="right" width = 400px src="/vlogo2.png" alt="">
 
-# About <span style="color:#FF9102">Me:
+# About <span style="color:#FF9102">Me</span>:
 🎓 I'm currently working on DSA. <br>
 👨‍💻 I'm looking to get into AI/ML.<br>
 💬 Ask me about Programming<br>
