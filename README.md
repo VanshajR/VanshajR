@@ -1,4 +1,4 @@
-<img src="/banner.jpg" alt="">
+<img src="/banner.jpeg" alt="">
 
 <h1 align="center">Hello there, I am Vanshaj Raghuvanshi</h1>
 <h3 align="center">A Programmer and Software Developer 🖥️</h3>
@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img align  ="right" width = 400px src="/vlogo2.png" alt="">
+<img height=300 width=300 align  ="right" width = 400px src="/vlogo2.png" alt="">
 
 # About Me:
 🎓 I'm currently working on DSA. <br>
