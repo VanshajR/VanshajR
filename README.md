@@ -1,4 +1,4 @@
-<img src="/banner.jpeg" alt="">
+<img height=300 width=1240 src="/banner.jpeg" alt="">
 
 <h1 align="center">Hello there, I am Vanshaj Raghuvanshi</h1>
 <h3 align="center">A Programmer and Software Developer 🖥️</h3>
