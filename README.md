@@ -14,7 +14,7 @@
 👨‍💻 I'm looking to get into AI/ML.<br>
 💬 Ask me about Programming<br>
 
-## Portfolio: <a href="https://www.vanshajraghuvanshi.tech" style="color:#FF9102">Visit</a>
+## Portfolio: <a href="https://www.vanshajraghuvanshi.tech">Visit</a>
 
 ## 🔗 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vanshajr_0410) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshajraghuvanshi)
