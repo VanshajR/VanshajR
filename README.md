@@ -53,7 +53,7 @@
 ## 📈 GitHub Statistics
 
 <p align="start">
-  <img height="180em" src="https://github-readme-stats-ten-sigma-48.vercel.app/api?username=VanshajR&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-ten-sigma-48.vercel.app/api/top-langs/?username=VanshajR&theme=codeSTACKr&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://bakamitai.vercel.app/api?username=VanshajR&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://bakamitai.vercel.app/api/top-langs/?username=VanshajR&theme=codeSTACKr&layout=compact&langs_count=8"/>
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshajR&theme=codeSTACKr"/>
 </p>
