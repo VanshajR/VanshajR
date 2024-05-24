@@ -57,3 +57,8 @@
   <img height="180em" src="https://bakamitai.vercel.app/api/top-langs/?username=VanshajR&theme=codeSTACKr&layout=compact&langs_count=8"/>
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshajR&theme=codeSTACKr"/>
 </p>
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=VanshajR&label=Profile%20Views&color=2&icon=0&pretty=true" />
+</a>
