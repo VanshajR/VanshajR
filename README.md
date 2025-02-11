@@ -77,10 +77,14 @@ me = AIEngineer()
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
 
-<p align="left"> <img height="180em" src="https://bakamitai.vercel.app/api?username=VanshajR&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> <img height="180em" src="https://bakamitai.vercel.app/api/top-langs/?username=VanshajR&theme=codeSTACKr&layout=compact&langs_count=8"/> <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshajR&theme=codeSTACKr"/> </p><a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=VanshajR&label=Profile%20Views&color=2&icon=0&pretty=true" /> </a>
+<p align="left"> <img height="180em" src="https://bakamitai.vercel.app/api?username=VanshajR&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> <img height="180em" src="https://bakamitai.vercel.app/api/top-langs/?username=VanshajR&theme=codeSTACKr&layout=compact&langs_count=8"/> <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshajR&theme=codeSTACKr"/> </p>
+
+![](https://komarev.com/ghpvc/?username=VanshajR&color=ff652f&base=1000&style=for-the-badge)
+
+![](https://github-profile-trophy.vercel.app/?username=VanshajR&no-frame=true&theme=gruvbox&row=1&column=10)
 
 ## 🦖 Holopin <span style="color:#FF9100">Badges</span>:
 [![An image of @vanshajr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshajr)](https://holopin.io/@vanshajr)
 
 ## 💡 Let's Build the Future of AI Together!
-Feel free to reach out for collaborations, discussions, or just to chat about AI and tech! 🚀
+Feel free to reach out for collaborations, discussions, or just to chat about AI and tech!
