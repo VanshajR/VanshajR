@@ -17,7 +17,7 @@
 ## 🚀 Portfolio: <a href="https://www.vanshajraghuvanshi.me">Visit My Portfolio</a>
 
 ## 🔗 Let's Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vanshajr_0410?igsh=MWFsMWNsMmh1MjhmNA==)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vanshajraghuvanshi)   [![Discord](https://img.shields.io/badge/@targaryen001.-5539CC.svg?logo=discord&logoColor=white)]() [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/VanshajR)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vanshajr_0410?igsh=MWFsMWNsMmh1MjhmNA==)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vanshajraghuvanshi)   [![Discord](https://img.shields.io/badge/@targaryen001.-5539CC.svg?logo=discord&logoColor=white)](https://discord.com/users/732858986717511760) [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/VanshajR)
 
 ---
 
