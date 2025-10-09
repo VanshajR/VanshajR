@@ -79,7 +79,7 @@ me = AIEngineer()
 
 <p align="left"> <img height="180em" src="https://bakamitai.vercel.app/api?username=VanshajR&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> <img height="180em" src="https://bakamitai.vercel.app/api/top-langs/?username=VanshajR&theme=codeSTACKr&layout=compact&langs_count=8"/> <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanshajR&theme=codeSTACKr"/> </p>
 
-![](https://komarev.com/ghpvc/?username=VanshajR&color=ff652f&base=1000&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=VanshajR&color=ff652f&style=for-the-badge)
 
 ![](https://github-profile-trophy.vercel.app/?username=VanshajR&no-frame=true&theme=gruvbox&row=1&column=10)
 
