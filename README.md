@@ -81,7 +81,7 @@ me = AIEngineer()
 
 ![](https://komarev.com/ghpvc/?username=VanshajR&color=ff652f&style=for-the-badge)
 
-![](https://github-profile-trophy.vercel.app/?username=VanshajR&no-frame=true&theme=gruvbox&row=1&column=10)
+![](https://github-profile-trophy-one-theta.vercel.app/?username=VanshajR&no-frame=true&theme=gruvbox&row=1&column=10)
 
 ## 🦖 Holopin <span style="color:#FF9100">Badges</span>:
 [![An image of @vanshajr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshajr)](https://holopin.io/@vanshajr)
